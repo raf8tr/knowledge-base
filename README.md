@@ -3,8 +3,10 @@
 Open a book, select the text on the page and copy it (no download needed):
 
 - [Coaching Agile Teams](books/Coaching-Agile-Teams.md)
+- [Management 3.0](books/Management-3.0.md)
 - [Advanced Facilitation Strategies](books/Advanced-Facilitation-Strategies.md)
 - [Umysl Lidera](books/Umysl-Lidera.md)
+- [Lean Startup](books/Lean-Startup.md)
 
 ---
 
@@ -20,6 +22,7 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 | AFS | Advanced Facilitation Strategies: Tools & Techniques to Master Difficult Situations | Ingrid Bens, 2005 | Facylitacja, prowadzenie spotkań, decyzje grupowe, konflikt, konsulting procesowy, O.D. | [AFS](books/Advanced-Facilitation-Strategies.md) | `Books/Bens - Advanced Facilitation Strategies/WORK/` |
 | CAT | Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition | Lyssa Adkins, 2010 | Agile coaching, Scrum, role coacha/PO/menedżera, facylitacja zespołu, konflikt, współpraca | [CAT](books/Coaching-Agile-Teams.md) | `Books/Adkins - Coaching Agile Teams/WORK/` |
 | UML | Umysł lidera. Wykorzystaj przełomowe odkrycia neuronauki, które zmieniają podejście do zarządzania sobą i innymi | Friederike Fabritius, Hans W. Hagemann, 2017 (pol. 2018) | Neuronauka w przywództwie: pobudzenie, emocje, uwaga, nawyki, intuicja, nauka, zespoły | [UML](books/Umysl-Lidera.md) | `Books/Fabritius, Hagemann - Umysl Lidera/WORK/` |
+| LSU | Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek | Eric Ries, 2011 (pol. 2012) | Startupy i innowacje: MVP, eksperymenty, metryki, pivot, wzrost | [LSU](books/Lean-Startup.md) | `Books/Ries - Lean Startup/WORK/` |
 
 ## Indeks przekrojowy (hasło → książka:sekcja)
 > Gdy dojdą kolejne książki, ich sekcje dopisuje się do tych samych haseł. Sprzeczności między autorami oznacza się jawnie: `> SPRZECZNOŚĆ: …`.
@@ -85,6 +88,17 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 - Wysoka wydajność → CAT-2.2 – CAT-2.6 · Kooperacja vs kolaboracja → CAT-10.2 – CAT-10.12
 - Rozwiązywanie problemów przez zespół → CAT-8.2 – CAT-8.7
 - Tryby porażki/sukcesu, miary coacha → CAT-11.1 – CAT-11.4, CAT-12.2 – CAT-12.5
+
+### Innowacje, produkt i startupy
+- MVP, weryfikowane uczenie się → LSU-6.1, LSU-6.3, LSU-3.1, LSU-3.4
+- Pętla Build–Measure–Learn, akty wiary (hipoteza wartości i wzrostu) → LSU-5.1, LSU-5.3, LSU-4.3
+- Eksperymenty, wyjdź z budynku → LSU-4.1, LSU-4.5, LSU-5.7, LSU-5.8
+- Księgowość innowacyjna, wskaźniki złudne vs praktyczne → LSU-7.1, LSU-7.3, LSU-7.6, LSU-7.11
+- Kohorty, testy A/B → LSU-7.4, LSU-7.8 · Kanban / limit WIP → LSU-7.9
+- Pivot: zwrot czy trwanie → LSU-8.1, LSU-8.3, LSU-8.5, LSU-8.7
+- Motory wzrostu, product-market fit → LSU-10.2, LSU-10.7 · Małe partie → LSU-9.1, LSU-9.3
+- Pięć razy dlaczego → LSU-11.3, LSU-11.5 (por. rozwiązywanie problemów → CAT-8.7)
+- Innowacje w korporacji, portfel → LSU-12.1, LSU-12.3 – LSU-12.5 · Marnotrawstwo → LSU-3.4, LSU-13.1
 
 ### Mózg, emocje i efektywność osobista
 - Stres, pobudzenie, odporność → UML-1.3, UML-2.4, UML-2.6, UML-2.10
