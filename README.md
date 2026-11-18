@@ -23,6 +23,7 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 | CAT | Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition | Lyssa Adkins, 2010 | Agile coaching, Scrum, role coacha/PO/menedżera, facylitacja zespołu, konflikt, współpraca | [CAT](books/Coaching-Agile-Teams.md) | `Books/Adkins - Coaching Agile Teams/WORK/` |
 | UML | Umysł lidera. Wykorzystaj przełomowe odkrycia neuronauki, które zmieniają podejście do zarządzania sobą i innymi | Friederike Fabritius, Hans W. Hagemann, 2017 (pol. 2018) | Neuronauka w przywództwie: pobudzenie, emocje, uwaga, nawyki, intuicja, nauka, zespoły | [UML](books/Umysl-Lidera.md) | `Books/Fabritius, Hagemann - Umysl Lidera/WORK/` |
 | LSU | Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek | Eric Ries, 2011 (pol. 2012) | Startupy i innowacje: MVP, eksperymenty, metryki, pivot, wzrost | [LSU](books/Lean-Startup.md) | `Books/Ries - Lean Startup/WORK/` |
+| MGT | Management 3.0: Leading Agile Developers, Developing Agile Leaders | Jurgen Appelo, 2011 | Zarządzanie zwinne: złożoność, motywacja, delegowanie, struktura organizacji, zmiana | [MGT](books/Management-3.0.md) | `Books/Appelo - Management 3.0/WORK/` |
 
 ## Indeks przekrojowy (hasło → książka:sekcja)
 > Gdy dojdą kolejne książki, ich sekcje dopisuje się do tych samych haseł. Sprzeczności między autorami oznacza się jawnie: `> SPRZECZNOŚĆ: …`.
@@ -88,6 +89,17 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 - Wysoka wydajność → CAT-2.2 – CAT-2.6 · Kooperacja vs kolaboracja → CAT-10.2 – CAT-10.12
 - Rozwiązywanie problemów przez zespół → CAT-8.2 – CAT-8.7
 - Tryby porażki/sukcesu, miary coacha → CAT-11.1 – CAT-11.4, CAT-12.2 – CAT-12.5
+
+### Zarządzanie zwinne i organizacja (Management 3.0)
+- Złożoność, Cynefin → MGT-1.3, MGT-3.3 · Przywództwo vs rządzenie → MGT-1.1, MGT-8.5
+- Motywacja wewnętrzna, premie, 10 pragnień (CHAMPFROGS), bilans motywacyjny → MGT-5.4 – MGT-5.7
+- Wartości zespołu → MGT-5.10 · Samoorganizacja → MGT-6.1, MGT-6.6, MGT-8.3 (por. CAT-4.3)
+- Delegowanie, 7 poziomów, dojrzałość upełnomocnienia → MGT-6.8, MGT-7.3, MGT-7.5, MGT-7.6, MGT-7.8, MGT-9.6
+- Zaufanie → MGT-7.11 · Feedback, oceny 360°, one-on-one → MGT-7.12, MGT-11.9, MGT-11.10 (por. CAT-5.6)
+- Cele, wizja, misja; jakość jako ograniczenie → MGT-9.1, MGT-9.2, MGT-9.4, MGT-9.10
+- Kompetencje, rzemiosło, miary wydajności → MGT-10.4, MGT-10.6, MGT-11.1, MGT-11.3, MGT-11.4
+- Komunikacja → MGT-12.2, MGT-12.3 · Struktura i wielkość zespołów, generalizujący specjalista → MGT-13.2, MGT-13.5 – MGT-13.7
+- Zarządzanie zmianą, ciągłe doskonalenie → MGT-14.10, MGT-15.2, MGT-15.5, MGT-15.6, MGT-15.12
 
 ### Innowacje, produkt i startupy
 - MVP, weryfikowane uczenie się → LSU-6.1, LSU-6.3, LSU-3.1, LSU-3.4
