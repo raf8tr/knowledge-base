@@ -4,6 +4,7 @@ Open a book, select the text on the page and copy it (no download needed):
 
 - [Coaching Agile Teams](books/Coaching-Agile-Teams.md)
 - [Advanced Facilitation Strategies](books/Advanced-Facilitation-Strategies.md)
+- [Umysl Lidera](books/Umysl-Lidera.md)
 
 ---
 
@@ -18,6 +19,7 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 |---|---|---|---|---|---|
 | AFS | Advanced Facilitation Strategies: Tools & Techniques to Master Difficult Situations | Ingrid Bens, 2005 | Facylitacja, prowadzenie spotkań, decyzje grupowe, konflikt, konsulting procesowy, O.D. | [AFS](books/Advanced-Facilitation-Strategies.md) | `Books/Bens - Advanced Facilitation Strategies/WORK/` |
 | CAT | Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition | Lyssa Adkins, 2010 | Agile coaching, Scrum, role coacha/PO/menedżera, facylitacja zespołu, konflikt, współpraca | [CAT](books/Coaching-Agile-Teams.md) | `Books/Adkins - Coaching Agile Teams/WORK/` |
+| UML | Umysł lidera. Wykorzystaj przełomowe odkrycia neuronauki, które zmieniają podejście do zarządzania sobą i innymi | Friederike Fabritius, Hans W. Hagemann, 2017 (pol. 2018) | Neuronauka w przywództwie: pobudzenie, emocje, uwaga, nawyki, intuicja, nauka, zespoły | [UML](books/Umysl-Lidera.md) | `Books/Fabritius, Hagemann - Umysl Lidera/WORK/` |
 
 ## Indeks przekrojowy (hasło → książka:sekcja)
 > Gdy dojdą kolejne książki, ich sekcje dopisuje się do tych samych haseł. Sprzeczności między autorami oznacza się jawnie: `> SPRZECZNOŚĆ: …`.
@@ -83,6 +85,18 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 - Wysoka wydajność → CAT-2.2 – CAT-2.6 · Kooperacja vs kolaboracja → CAT-10.2 – CAT-10.12
 - Rozwiązywanie problemów przez zespół → CAT-8.2 – CAT-8.7
 - Tryby porażki/sukcesu, miary coacha → CAT-11.1 – CAT-11.4, CAT-12.2 – CAT-12.5
+
+### Mózg, emocje i efektywność osobista
+- Stres, pobudzenie, odporność → UML-1.3, UML-2.4, UML-2.6, UML-2.10
+- Regulacja emocji · syndrom oszusta → UML-2.14 · UML-2.13 (por. EQ → CAT-3.6)
+- Koncentracja, wielozadaniowość, uważność → UML-3.4, UML-3.6, UML-3.8, UML-3.9 (por. obecność → CAT-3.13)
+- Flow indywidualny / zespołowy → UML-3.11 / UML-9.7, UML-9.8
+- Nawyki, kaizen, opór wobec zmiany → UML-4.3, UML-4.5, UML-4.7, UML-4.8
+- Intuicja ekspercka, kreatywność → UML-5.6 – UML-5.8, UML-5.10 – UML-5.12
+- Uczenie się, storytelling → UML-6.7 – UML-6.9, UML-9.4
+- Różnorodność, mocne strony, rekrutacja → UML-7.1, UML-7.3, UML-7.4, UML-9.2, UML-9.3
+- Zaufanie i bezpieczeństwo (SCARF), motywacja → UML-8.3, UML-8.4, UML-9.6
+- Spotkania, szczerość → UML-3.10, UML-9.9, UML-9.8
 
 ## Konwencje biblioteki
 - Folder książki: `Books/<Autor> - <Tytuł>/`. W środku: `<ID> - Knowledge Base.md` (Obsidian) i `WORK/` (wersja czysta + części do wklejania).
