@@ -5,6 +5,7 @@ Open a book, select the text on the page and copy it (no download needed):
 - [Coaching Agile Teams](books/Coaching-Agile-Teams.md)
 - [Management 3.0](books/Management-3.0.md)
 - [Advanced Facilitation Strategies](books/Advanced-Facilitation-Strategies.md)
+- [Clinical Sports Nutrition](books/Clinical-Sports-Nutrition.md)
 - [Umysl Lidera](books/Umysl-Lidera.md)
 - [Lean Startup](books/Lean-Startup.md)
 
@@ -24,6 +25,7 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 | UML | Umysł lidera. Wykorzystaj przełomowe odkrycia neuronauki, które zmieniają podejście do zarządzania sobą i innymi | Friederike Fabritius, Hans W. Hagemann, 2017 (pol. 2018) | Neuronauka w przywództwie: pobudzenie, emocje, uwaga, nawyki, intuicja, nauka, zespoły | [UML](books/Umysl-Lidera.md) | `Books/Fabritius, Hagemann - Umysl Lidera/WORK/` |
 | LSU | Metoda Lean Startup. Wykorzystaj innowacyjne narzędzia i stwórz firmę, która zdobędzie rynek | Eric Ries, 2011 (pol. 2012) | Startupy i innowacje: MVP, eksperymenty, metryki, pivot, wzrost | [LSU](books/Lean-Startup.md) | `Books/Ries - Lean Startup/WORK/` |
 | MGT | Management 3.0: Leading Agile Developers, Developing Agile Leaders | Jurgen Appelo, 2011 | Zarządzanie zwinne: złożoność, motywacja, delegowanie, struktura organizacji, zmiana | [MGT](books/Management-3.0.md) | `Books/Appelo - Management 3.0/WORK/` |
+| CSN | Clinical Sports Nutrition (4th edition) | Louise Burke, Vicki Deakin (red.), 2010 | Żywienie sportowe: paliwo, płyny, białko, masa ciała, suplementy, grupy szczególne | [CSN](books/Clinical-Sports-Nutrition.md) | `Books/Burke, Deakin - Clinical Sports Nutrition/WORK/` |
 
 ## Indeks przekrojowy (hasło → książka:sekcja)
 > Gdy dojdą kolejne książki, ich sekcje dopisuje się do tych samych haseł. Sprzeczności między autorami oznacza się jawnie: `> SPRZECZNOŚĆ: …`.
@@ -123,6 +125,17 @@ Biblioteka wiedzy o nowoczesnym zarządzaniu. Każda książka ma **jeden plik b
 - Różnorodność, mocne strony, rekrutacja → UML-7.1, UML-7.3, UML-7.4, UML-9.2, UML-9.3
 - Zaufanie i bezpieczeństwo (SCARF), motywacja → UML-8.3, UML-8.4, UML-9.6
 - Spotkania, szczerość → UML-3.10, UML-9.9, UML-9.8
+
+### Żywienie sportowe (CSN)
+- Węglowodany dziennie (g/kg) → CSN-14.3, CSN-2.5 · Ładowanie CHO, posiłek przedstartowy → CSN-12.2, CSN-12.3, CSN-12.5
+- CHO w trakcie wysiłku, napoje, żele → CSN-13.5, CSN-13.6, CSN-13.8
+- Nawodnienie, pomiar potu, hiponatremia → CSN-13.3, CSN-13.7, CSN-14.5 · Upał, wysokość → CSN-24.2, CSN-24.4
+- Regeneracja → CSN-14.2, CSN-14.7 · Train low, adaptacja tłuszczowa → CSN-14.4, CSN-15.2, CSN-15.4, CSN-15.5
+- Białko → CSN-4.4, CSN-4.6, CSN-4.8 · Dostępność energii, triada → CSN-8.8, CSN-5.4
+- Redukcja masy, kategorie wagowe, skład ciała → CSN-6.3, CSN-6.7, CSN-7.4, CSN-3.2, CSN-3.3
+- Żelazo, ferrytyna → CSN-10.4 – CSN-10.6 · Odporność, antyoksydanty → CSN-16.10, CSN-11.6
+- Suplementy (AIS), kofeina, kreatyna, wodorowęglan, glicerol → CSN-16.2, CSN-16.4, CSN-16.6 – CSN-16.9
+- Zaburzenia odżywiania, przewód pokarmowy → CSN-8.1, CSN-8.6, CSN-21.3
 
 ## Konwencje biblioteki
 - Folder książki: `Books/<Autor> - <Tytuł>/`. W środku: `<ID> - Knowledge Base.md` (Obsidian) i `WORK/` (wersja czysta + części do wklejania).
